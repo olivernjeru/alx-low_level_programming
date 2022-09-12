@@ -11,11 +11,11 @@ char alpha;
 
 for (alpha = 97; alpha < 123; alpha++)
 {
-if (alpha != 101 && alpha != 113)
-{
-putchar(alpha);
-}
+	if (alpha != 101 && alpha != 113)
+	{
+		putchar(alpha);
 	}
+}
 putchar(n);
 return (0);
 }
