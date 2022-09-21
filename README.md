@@ -10,4 +10,4 @@
 
 0x05-pointers_arrays_strings - Arrays and Strings in C
 
-0x06-pointers_arrays_strings - Includes practice for Pointers, Arrays and Strings
+0x06-pointers_arrays_strings - Includes practice for Pointers, Arrays and Strings and a tonne of Data Structures, kinda looks like I am seeing some leetcode questions to be honest!
