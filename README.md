@@ -6,6 +6,8 @@
 
 0x03-debugging - Debugging
 
-0x04-more_functions_nested_loops -Functions and Nested Loops for practise purposes and building muscle memory
+0x04-more_functions_nested_loops -Functions and Nested Loops for practice purposes and building muscle memory
 
 0x05-pointers_arrays_strings - Arrays and Strings in C
+
+0x06-pointers_arrays_strings - Includes practice for Pointers, Arrays and Strings
